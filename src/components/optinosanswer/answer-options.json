@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_optinosanswer_answer_options",
+  "info": {
+    "displayName": "answerOptions",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "answerText": {
+      "type": "string"
+    },
+    "isCorrect": {
+      "type": "boolean"
+    }
+  }
+}

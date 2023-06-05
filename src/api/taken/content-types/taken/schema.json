@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "takens",
+  "info": {
+    "singularName": "taken",
+    "pluralName": "takens",
+    "displayName": "taken",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "score": {
+      "type": "integer"
+    },
+    "qid": {
+      "type": "integer"
+    },
+    "user_id": {
+      "type": "integer"
+    },
+    "answers": {
+      "type": "json"
+    }
+  }
+}
